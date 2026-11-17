@@ -19,6 +19,9 @@ This project demonstrates practical applications of healthcare data validation, 
 - Healthcare claims and denial analysis
 - Interpretation of findings and development of follow-up recommendations
 
+## Dashboard Preview
+
+![Healthcare Claims Dashboard](Healthcare-claims-dashboard.png)
 ## Dashboard Summary
 
 | Metric | Result |
